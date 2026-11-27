@@ -1,0 +1,6 @@
+{
+  "name": "mcp-automation-test",
+  "version": "1.0.0",
+  "description": "Dummy MCP repository for UI automation testing",
+  "dependencies": {}
+}
